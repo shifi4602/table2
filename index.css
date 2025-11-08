@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.game {
+    display: flex;
+    flex-direction: column;
+}
+
+.top {
+    height: 12vh;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.tt{
+    align-content: center;
+    text-align: center;
+}
+
+.baord {
+    display: flex;
+    flex-direction: row;
+    background-color: gray;
+}
+
+.table {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 77vw;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.colum {
+    width: 18vw;
+    height: 7vh;
+    margin: 5vh;
+}
+
+.send {
+    width: 18vw;
+    height: 7vh;
+    margin: 5vh;
+}

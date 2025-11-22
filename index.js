@@ -94,4 +94,5 @@ form.addEventListener("submit", (element) => {
     r = creatShape()
 })
 
-const alert("change from colabrator");
+const alert("change from colabrator")
+alert("yael")

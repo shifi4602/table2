@@ -93,7 +93,7 @@ form.addEventListener("submit", (element) => {
     total.textContent = countTotal + " :total"
     r = creatShape()
 })
-
+alert("shifi auto conflict")
 const alert("change from colabrator")
 alert("yael")
 alert ("shifi")

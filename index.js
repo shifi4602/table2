@@ -93,3 +93,5 @@ form.addEventListener("submit", (element) => {
     total.textContent = countTotal + " :total"
     r = creatShape()
 })
+
+const alert("change from colabrator");
